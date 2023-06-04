@@ -30,5 +30,5 @@
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Frontend Mentor - [@Lovelace-D](https://www.frontendmentor.io/profile/lovelace-d)
+- Twitter - [@_dhieu](https://www.twitter.com/_dhieu)
