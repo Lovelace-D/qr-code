@@ -15,7 +15,7 @@
 ### Links
 
 - Solution URL: [https://github.com/Lovelace-D/qr-code.git]
-- Live Site URL: [[Add live site URL here](https://lovelace-d.github.io/qr-code/)
+- Live Site URL: [live site](https://lovelace-d.github.io/qr-code/)
 
 ### Built with
 
